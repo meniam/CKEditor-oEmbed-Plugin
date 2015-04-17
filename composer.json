@@ -1,0 +1,8 @@
+{
+    "name": "meniam/ckeditor_oembed_plugin",
+    "type": "library",
+    "description":  "This Plugin allows to insert embedded content (such as photos, videos, audio, and other rich media) via the OEmbed API. You only have to provide the url to the site (It works also when the url is shortened) you want to embed and the plugin does the rest.",
+    "keywords": ["ckeditor", "plugin", "video", "image", "audio", "media"],
+    "homepage": "https://github.com/meniam/CKEditor-oEmbed-Plugin",
+    "license":  "MIT"
+}
